@@ -50,8 +50,6 @@ git clone https://github.com/your-username/developer-intelligence.git
 cd developer-intelligence
 ```
 
-````
-
 2. **Install dependencies**
 
 ```bash
@@ -181,7 +179,6 @@ developer-intelligence/
 └── middleware.js             # Auth route protection
 ```
 
-```
 ---
 
 ## 🔐 Authentication
@@ -215,4 +212,5 @@ developer-intelligence/
 5. Open a Pull Request
 
 ```
-````
+
+```
