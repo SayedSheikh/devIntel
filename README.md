@@ -1,4 +1,3 @@
-````markdown
 # 🔍 Developer Intelligence Platform
 
 A modern recruitment intelligence platform that helps IT recruiters discover, analyze, and manage software developers through GitHub profile analysis and campaign tracking.
@@ -50,6 +49,7 @@ A modern recruitment intelligence platform that helps IT recruiters discover, an
 git clone https://github.com/your-username/developer-intelligence.git
 cd developer-intelligence
 ```
+
 ````
 
 2. **Install dependencies**
@@ -215,3 +215,4 @@ developer-intelligence/
 5. Open a Pull Request
 
 ```
+````
